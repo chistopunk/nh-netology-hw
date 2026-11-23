@@ -15,7 +15,7 @@
 
 ---
 
-## Задание 1. Разведка системы (nmap)
+## Задание 1.
 
 ### Команды (на attacker)
 
@@ -70,7 +70,7 @@ sudo cat /var/log/fail2ban.log | grep -i ban
 
 ---
 
-## Задание 2. Брутфорс SSH + защита Fail2Ban
+## Задание 2.
 
 ### Настройка Fail2Ban (на defender)
 
